@@ -1,4 +1,4 @@
-![Crank It App Icon](CI_AppIcon.png)
+![Crank It App Icon](./CI_AppIcon.png)
 
 # Crank It 
 
